@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:rgb(151, 133, 102);
+    color: antiquewhite;
+    font-family: "EB Garamond", serif;
+}
+
+header {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 100%;
+    padding: 10px;
+}
+
+h1 {
+    color: rgb(72, 48, 0);
+    text-align: center;
+}
+
+nav {
+    align-self: center;
+    width: 15%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+h2 {
+    color: wheat;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 5%;
+}
+
+ol {
+    color: antiquewhite;
+    text-align: left;
+}
+
+li {
+    color: antiquewhite;
+    text-align: left;
+}
+
+h3 {
+    color: antiquewhite;
+    text-align: left;
+}

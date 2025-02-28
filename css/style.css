@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(149, 119, 67);
+    color: antiquewhite;
+    font-family: "EB Garamond", serif;
+} 
+
+header {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#gif {
+    width: 10%
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(72, 48, 0);
+    text-align: center;
+    align-self: center;
+}
+
+nav {
+    color: antiquewhite;
+    align-self: center;
+    width: 15%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+bio {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 100%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+#img {
+    width: 20%;
+    height: 5%;
+}
+
+p {
+    width: 70%;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+
+}
