@@ -19,6 +19,10 @@ header {
     width: 100%;
 }
 
+#gif {
+    width: 10%
+}
+
 h1 {
     font-size: 40px;
     color: rgb(72, 48, 0);
@@ -27,6 +31,7 @@ h1 {
 }
 
 nav {
+    color: antiquewhite;
     align-self: center;
     width: 15%;
     display: flex;
@@ -60,6 +65,8 @@ h2 {
     text-align: center;
     text-decoration: none;
     margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 1%;
 }
 
 img {
