@@ -53,9 +53,10 @@ section {
 h2 {
     color: wheat;
     font-size: xx-large;
-    text-align: center;
+    text-align: justify;
     text-decoration: none;
-    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-top: 4%;
 }
 
 ol {
@@ -66,6 +67,7 @@ ol {
 li {
     color: antiquewhite;
     text-align: left;
+    margin-left: 1%;
 }
 
 img {
